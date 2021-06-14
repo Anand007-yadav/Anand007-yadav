@@ -53,7 +53,3 @@
 <a href="https://www.linkedin.com/in/anandyadav09/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-<h3>My Projects:</h3>
-<p>
-Check the pinned repositories below. 👇
-</p>
