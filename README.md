@@ -1,4 +1,4 @@
-<h1>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Anand Ydav</h1>
+<h1>✨Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I'm Anand Yadav</h1>
 <h3>I'm a Web Developer (MERN) and Competitive Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anand007-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Anand Ydav" /> </p>
@@ -51,5 +51,6 @@
 <h3>Feel Free To Contact me ..</h3>
 <a href="https://github.com/Anand007-yadav" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/anandyadav09/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/anand__2009/?hl=en" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
